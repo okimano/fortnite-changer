@@ -10,7 +10,8 @@
 
 
 ***^-^ Loading interface***
-![preview](https://github.com/okimano/fortnite-changer/assets/162897966/cacd2737-4cfc-4083-8a60-0e622e8880f0)
+![loading](https://github.com/okimano/fortnite-changer/assets/162897966/f4a838e4-3449-479b-aaf3-c731cf8ddf0a)
+
 
 
 
